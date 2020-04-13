@@ -1,0 +1,34 @@
+{
+   "producttypes":[
+      {
+         "name":"A home mushroom farm",
+         "price":22.85,
+         "details":"Now you can grow your own fungus right at home—and not in between your toes! ",
+         "image":"img1.jpg"
+      },
+      {
+         "name":"A cat butt tissue holder",
+         "price":34.94,
+         "details":"This seems like the nicest thing to be plucked from a cat's rear since, well, ever.",
+         "image":"img2.jpg"
+      },
+      {
+         "name":"A bacon-scented mustache",
+         "price":4.07,
+         "details":"Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+         "image":"img3.jpg"
+      },
+      {
+         "name":"A Godzilla garden gnome",
+         "price":24.99,
+         "details":"Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+         "image":"img4.jpg"
+      },
+      {
+         "name":"A desktop refrigerator",
+         "price":38.00,
+         "details":"Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+         "image":"img5.jpg"
+      }
+   ]
+}
