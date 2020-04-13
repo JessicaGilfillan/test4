@@ -56,4 +56,4 @@ function producttypes(jsonObj) {
 
 
 }
-loadProducts('https://200427063.github.io/Lab4/wired.json', producttypes);
+loadProducts('https://jessicagilfillan.github.io/test4/wired.json', producttypes);
