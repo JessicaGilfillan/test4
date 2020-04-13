@@ -10,7 +10,7 @@ function loadProducts(url, callback) {
     };
 }
 
-fetch('https://200427063.github.io/Lab4/wired.json')
+fetch('https://jessicagilfillan.github.io/test4/wired.json')
   .then((response) => {
     return response.json();
   })
@@ -34,7 +34,7 @@ function producttypes(jsonObj) {
         let ul = document.createElement('ul')
 
 
-        img.setAttribute('src', 'https://200427063.github.io/Lab4/assets/' +
+        img.setAttribute('src', 'https://jessicagilfillan.github.io/test4/assets/' +
             producttypes[i].image);
         img.setAttribute('alt', producttypes[i].image);
         h2.textContent = producttypes[i].name;
